@@ -14,6 +14,8 @@
 		23B706722BD4ADEF001B79C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23B706712BD4ADEF001B79C9 /* Assets.xcassets */; };
 		23B706752BD4ADEF001B79C9 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 23B706742BD4ADEF001B79C9 /* Base */; };
 		23B706812BD4BF5B001B79C9 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23B706802BD4BF5B001B79C9 /* SignUpViewController.swift */; };
+		23B706882BD8B129001B79C9 /* Bolt.png in Resources */ = {isa = PBXBuildFile; fileRef = 23B706872BD8B129001B79C9 /* Bolt.png */; };
+		23B7068A2BD8B29D001B79C9 /* Lightning.png in Resources */ = {isa = PBXBuildFile; fileRef = 23B706892BD8B29D001B79C9 /* Lightning.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		23B706742BD4ADEF001B79C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		23B706762BD4ADEF001B79C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		23B706802BD4BF5B001B79C9 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		23B706872BD8B129001B79C9 /* Bolt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bolt.png; sourceTree = "<group>"; };
+		23B706892BD8B29D001B79C9 /* Lightning.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Lightning.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				23B706732BD4ADEF001B79C9 /* LaunchScreen.storyboard */,
 				23B706762BD4ADEF001B79C9 /* Info.plist */,
 				23B706802BD4BF5B001B79C9 /* SignUpViewController.swift */,
+				23B706872BD8B129001B79C9 /* Bolt.png */,
+				23B706892BD8B29D001B79C9 /* Lightning.png */,
 			);
 			path = Sizzlers;
 			sourceTree = "<group>";
@@ -128,7 +134,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				23B706882BD8B129001B79C9 /* Bolt.png in Resources */,
 				23B706722BD4ADEF001B79C9 /* Assets.xcassets in Resources */,
+				23B7068A2BD8B29D001B79C9 /* Lightning.png in Resources */,
 				23B706752BD4ADEF001B79C9 /* Base in Resources */,
 				23B706702BD4ADED001B79C9 /* Base in Resources */,
 			);
