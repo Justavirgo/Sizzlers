@@ -43,6 +43,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		23769F2C2BDA1B2000CBC7FA /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				23B7066C2BD4ADED001B79C9 /* ViewController.swift */,
+				23B706802BD4BF5B001B79C9 /* SignUpViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		23769F2D2BDA1B2E00CBC7FA /* View */ = {
+			isa = PBXGroup;
+			children = (
+				23B7066E2BD4ADED001B79C9 /* Main.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		23B7065C2BD4ADED001B79C9 = {
 			isa = PBXGroup;
 			children = (
@@ -64,12 +81,11 @@
 			children = (
 				23B706682BD4ADED001B79C9 /* AppDelegate.swift */,
 				23B7066A2BD4ADED001B79C9 /* SceneDelegate.swift */,
-				23B7066C2BD4ADED001B79C9 /* ViewController.swift */,
-				23B7066E2BD4ADED001B79C9 /* Main.storyboard */,
+				23769F2C2BDA1B2000CBC7FA /* Controller */,
+				23769F2D2BDA1B2E00CBC7FA /* View */,
 				23B706712BD4ADEF001B79C9 /* Assets.xcassets */,
 				23B706732BD4ADEF001B79C9 /* LaunchScreen.storyboard */,
 				23B706762BD4ADEF001B79C9 /* Info.plist */,
-				23B706802BD4BF5B001B79C9 /* SignUpViewController.swift */,
 				23B706872BD8B129001B79C9 /* Bolt.png */,
 				23B706892BD8B29D001B79C9 /* Lightning.png */,
 			);

@@ -41,7 +41,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="yAH-cW-pke"/>
                     <connections>
-                        <segue destination="pdS-Qy-u9Q" kind="presentation" id="z88-Vx-yU3"/>
+                        <segue destination="pdS-Qy-u9Q" kind="presentation" identifier="goToSignUp" id="z88-Vx-yU3"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
